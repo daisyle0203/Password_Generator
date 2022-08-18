@@ -11,3 +11,4 @@ Password Generator is a web application that allows users to generate passwords 
 ![password generator](style.png)
 ## Link to deployed the application
 ---
+[https://daisyle0203.github.io/uta_password_generator/](https://daisyle0203.github.io/uta_password_generator/)
